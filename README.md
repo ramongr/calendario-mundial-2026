@@ -56,7 +56,7 @@ Cada evento tem um título no formato `Mundial 2026: Equipa A vs Equipa B (Grupo
 
 ```
 Mundial 2026 — Fase de Grupos, Grupo K.
-Transmissão: Sport TV, Livemode.
+Transmissão: SIC, Sport TV, Livemode.
 ```
 
 Locais aproximados (cidade/país) também estão incluídos, para o caso de a tua app de calendário ajustar fusos horários por localização (não devia — as horas estão fixadas em Lisboa).
@@ -68,11 +68,17 @@ Locais aproximados (cidade/país) também estão incluídos, para o caso de a tu
 
 ### Canais
 
-A informação de canais segue a fonte [A Bola](https://www.abola.pt/). Tipicamente:
 - **Sport TV** transmite todos os jogos do Mundial.
 - **Livemode** (streaming) acompanha os jogos de maior interesse, incluindo todos os de Portugal.
+- **RTP, SIC e TVI** chegaram a acordo com a FIFA para transmitir 20 jogos em sinal aberto:
 
-Caso a RTP venha a anunciar transmissão em sinal aberto de alguns jogos (habitual nos jogos de Portugal e na final), o ficheiro será atualizado.
+| Canal | Jogos |
+|-------|-------|
+| **RTP** (6 jogos) | França vs Senegal (16 jun) · Suíça vs Bósnia-Herzegovina (18 jun) · Colômbia vs Portugal (27/28 jun) · 1 dezasseis-avos · oitavos de Portugal\* · Final |
+| **SIC** (7 jogos) | Canadá vs Bósnia-Herzegovina (12 jun) · Portugal vs RD Congo (17 jun) · Equador vs Alemanha (25 jun) · dezasseis-avos de Portugal\* · 1 oitavos · 1 quartos · meia-final de Portugal\* |
+| **TVI** (7 jogos) | México vs África do Sul — jogo inaugural (11 jun) · Alemanha vs Costa do Marfim (20 jun) · Portugal vs Uzbequistão (23 jun) · Noruega vs França (26 jun) · 1 dezasseis-avos · quartos de Portugal\* · 1 meia-final |
+
+\* Se Portugal se apurar para essa fase. Os jogos da fase a eliminar sem adversário confirmado seguem o caminho provável de Portugal como vencedor do Grupo K.
 
 ## Atualizações
 
