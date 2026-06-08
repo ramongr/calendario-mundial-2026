@@ -52,7 +52,7 @@ O calendário aparece na barra lateral. No telemóvel (Android/iPhone com app Go
 
 ## O que vais ver no calendário
 
-Cada evento tem um título no formato `Mundial 2026: Equipa A vs Equipa B (Grupo X)`. A descrição inclui a fase da prova e o canal que transmite, por exemplo:
+Cada evento tem um título no formato `🏳 Equipa A vs 🏳 Equipa B (Grupo X)`. A descrição inclui a fase da prova e o canal que transmite, por exemplo:
 
 ```
 Mundial 2026 — Fase de Grupos, Grupo K.
