@@ -66,7 +66,7 @@ Os locais aproximados (cidade/país) também estão incluídos.
 * Todas as horas estão configuradas com a timezone `Europe/Lisbon`.
 * Em junho/julho, Portugal Continental está em WEST (UTC+1).
 * Se estiveres noutro fuso horário, a tua app de calendário deverá ajustar automaticamente a hora apresentada.
-* A fase a eliminar já inclui datas e horas, mas os adversários ainda dependem da classificação dos grupos e poderão ser atualizados mais tarde.
+* A fase de grupos e os dezasseis avos de final já terminaram — os oitavos de final (a partir de 4 de julho) já têm os adversários confirmados. Os quartos de final, meias-finais e final ainda aparecem como "Vencedor do Jogo X" até serem conhecidos os apurados.
 
 ### Canais
 
@@ -76,8 +76,8 @@ Os locais aproximados (cidade/país) também estão incluídos.
 
 | Canal   | Jogos indicados                                                                                                                                                               |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **RTP** | França vs Senegal (16 jun) · Suíça vs Bósnia e Herzegovina (18 jun) · Colômbia vs Portugal (28 jun) · 1 jogo dos oitavos · Final                                              |
-| **SIC** | Canadá vs Bósnia e Herzegovina (12 jun) · Portugal vs RD Congo (17 jun) · Equador vs Alemanha (25 jun) · 1 jogo dos dezasseis avos · 1 meia-final                             |
+| **RTP** | França vs Senegal (16 jun) · Suíça vs Bósnia e Herzegovina (18 jun) · Colômbia vs Portugal (28 jun) · Portugal vs Espanha — oitavos (6 jul) · Final                            |
+| **SIC** | Canadá vs Bósnia e Herzegovina (12 jun) · Portugal vs RD Congo (17 jun) · Equador vs Alemanha (25 jun) · Colômbia vs Gana — dezasseis avos (4 jul) · 1 meia-final              |
 | **TVI** | México vs África do Sul — jogo inaugural (11 jun) · Alemanha vs Costa do Marfim (20 jun) · Portugal vs Uzbequistão (23 jun) · Noruega vs França (26 jun) · 1 jogo dos quartos |
 
 > Os jogos da fase a eliminar podem mudar de canal ou descrição quando forem conhecidos os adversários finais e a grelha definitiva de transmissões.
