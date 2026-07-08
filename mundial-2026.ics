@@ -8,7 +8,7 @@ X-WR-CALDESC:Calendário do Mundial FIFA 2026 com transmissões em Portugal. Hor
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-X-WR-LAST-MODIFIED:20260704T120000Z
+X-WR-LAST-MODIFIED:20260708T092400Z
 BEGIN:VTIMEZONE
 TZID:Europe/Lisbon
 BEGIN:STANDARD
@@ -1085,44 +1085,44 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mundial2026-097@calendario-mundial-2026
 DTSTAMP:20260610T000000Z
-LAST-MODIFIED:20260617T105431Z
+LAST-MODIFIED:20260708T092400Z
 DTSTART;TZID=Europe/Lisbon:20260709T210000
 DTEND;TZID=Europe/Lisbon:20260710T000000
-SUMMARY:Vencedor J89 vs Vencedor J90 (Quartos de final)
-DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 97).\nTransmissão: Sport TV.
+SUMMARY:🇫🇷 França vs 🇲🇦 Marrocos (Quartos de final)
+DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 97).\nTransmissão: Sport TV 5\, Livemode.
 LOCATION:Boston\, Estados Unidos da América
 CATEGORIES:Mundial 2026,Quartos de final
 END:VEVENT
 BEGIN:VEVENT
 UID:mundial2026-098@calendario-mundial-2026
 DTSTAMP:20260610T000000Z
-LAST-MODIFIED:20260617T105431Z
+LAST-MODIFIED:20260708T092400Z
 DTSTART;TZID=Europe/Lisbon:20260710T200000
 DTEND;TZID=Europe/Lisbon:20260710T230000
-SUMMARY:Vencedor J93 vs Vencedor J94 (Quartos de final)
-DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 98).\nTransmissão: Sport TV.
+SUMMARY:🇪🇸 Espanha vs 🇧🇪 Bélgica (Quartos de final)
+DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 98).\nTransmissão: Sport TV 5\, Livemode.
 LOCATION:Los Angeles\, Estados Unidos da América
 CATEGORIES:Mundial 2026,Quartos de final
 END:VEVENT
 BEGIN:VEVENT
 UID:mundial2026-099@calendario-mundial-2026
 DTSTAMP:20260610T000000Z
-LAST-MODIFIED:20260617T105431Z
-DTSTART;TZID=Europe/Lisbon:20260711T220000
-DTEND;TZID=Europe/Lisbon:20260712T010000
-SUMMARY:Vencedor J91 vs Vencedor J92 (Quartos de final)
-DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 99).\nTransmissão: Sport TV.
+LAST-MODIFIED:20260708T092400Z
+DTSTART;TZID=Europe/Lisbon:20260712T220000
+DTEND;TZID=Europe/Lisbon:20260713T010000
+SUMMARY:🇳🇴 Noruega vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra (Quartos de final)
+DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 99).\nTransmissão: Sport TV 5.
 LOCATION:Miami\, Estados Unidos da América
 CATEGORIES:Mundial 2026,Quartos de final
 END:VEVENT
 BEGIN:VEVENT
 UID:mundial2026-100@calendario-mundial-2026
 DTSTAMP:20260610T000000Z
-LAST-MODIFIED:20260617T105431Z
-DTSTART;TZID=Europe/Lisbon:20260712T020000
-DTEND;TZID=Europe/Lisbon:20260712T050000
-SUMMARY:Vencedor J95 vs Vencedor J96 (Quartos de final)
-DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 100).\nTransmissão: TVI\, Sport TV.
+LAST-MODIFIED:20260708T092400Z
+DTSTART;TZID=Europe/Lisbon:20260713T020000
+DTEND;TZID=Europe/Lisbon:20260713T050000
+SUMMARY:🇦🇷 Argentina vs 🇨🇭 Suíça (Quartos de final)
+DESCRIPTION:Mundial FIFA 2026 — Quartos de final (jogo 100).\nTransmissão: Sport TV 5.
 LOCATION:Kansas City\, Estados Unidos da América
 CATEGORIES:Mundial 2026,Quartos de final
 END:VEVENT
