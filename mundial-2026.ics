@@ -8,7 +8,7 @@ X-WR-CALDESC:Calendário do Mundial FIFA 2026 com transmissões em Portugal. Hor
 X-WR-TIMEZONE:Europe/Lisbon
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-X-WR-LAST-MODIFIED:20260708T092400Z
+X-WR-LAST-MODIFIED:20260713T113433Z
 BEGIN:VTIMEZONE
 TZID:Europe/Lisbon
 BEGIN:STANDARD
@@ -1129,22 +1129,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mundial2026-101@calendario-mundial-2026
 DTSTAMP:20260610T000000Z
-LAST-MODIFIED:20260617T105431Z
+LAST-MODIFIED:20260713T113433Z
 DTSTART;TZID=Europe/Lisbon:20260714T200000
 DTEND;TZID=Europe/Lisbon:20260714T230000
-SUMMARY:Vencedor J97 vs Vencedor J98 (Meia-final)
-DESCRIPTION:Mundial FIFA 2026 — Meia-final (jogo 101).\nTransmissão: Sport TV\, LiveModeTV.
+SUMMARY:🇫🇷 França vs 🇪🇸 Espanha (Meia-final)
+DESCRIPTION:Mundial FIFA 2026 — Meia-final (jogo 101).\nTransmissão: Sport TV 5\, LiveModeTV.
 LOCATION:Dallas\, Estados Unidos da América
 CATEGORIES:Mundial 2026,Meias-finais
 END:VEVENT
 BEGIN:VEVENT
 UID:mundial2026-102@calendario-mundial-2026
 DTSTAMP:20260610T000000Z
-LAST-MODIFIED:20260617T105431Z
+LAST-MODIFIED:20260713T113433Z
 DTSTART;TZID=Europe/Lisbon:20260715T200000
 DTEND;TZID=Europe/Lisbon:20260715T230000
-SUMMARY:Vencedor J99 vs Vencedor J100 (Meia-final)
-DESCRIPTION:Mundial FIFA 2026 — Meia-final (jogo 102).\nTransmissão: SIC\, Sport TV\, LiveModeTV.
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇦🇷 Argentina (Meia-final)
+DESCRIPTION:Mundial FIFA 2026 — Meia-final (jogo 102).\nTransmissão: Sport TV 5\, LiveModeTV.
 LOCATION:Atlanta\, Estados Unidos da América
 CATEGORIES:Mundial 2026,Meias-finais
 END:VEVENT
